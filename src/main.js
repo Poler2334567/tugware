@@ -16,7 +16,7 @@ import SpamSSControl from "./Modules/SpamSSControl";
 import SDK from "./SDK/SDK"
 import Panel from "./UI/Panel"
 
-let alreadyInjected = !!top?.Niggerware || window?.thugbot;
+let alreadyInjected = !!top?.Niggerware || window?.Niggerbot;
 
 if (!alreadyInjected) {
     let mainSDKInstance = new SDK(document.getElementById("webclient")?.contentWindow || window);
