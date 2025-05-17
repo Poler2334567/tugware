@@ -3,16 +3,16 @@ import "./style.css";
 export default class {
     constructor(title, toggle = true) {
         this.panel = document.createElement('div');
-        this.panel.className = "Thugware-panel";
+        this.panel.className = "Niggerware-panel";
         document.body.appendChild(this.panel);
         
         this.header = document.createElement('h2');
-        this.header.className = "Thugware-header";
+        this.header.className = "Niggerware-header";
         this.header.textContent = title;
         this.panel.appendChild(this.header);
 
         this.buttonContainer = document.createElement('div');
-        this.buttonContainer.className = "Thugware-button-container";
+        this.buttonContainer.className = "Niggerware-button-container";
         this.panel.appendChild(this.buttonContainer);
 
         this.isDragging = false;
@@ -100,7 +100,7 @@ export default class {
 
     addButton(title, callback) {
         let button = document.createElement('button');
-        button.className = "Thugware-button";
+        button.className = "Niggerware-button";
         button.innerText = title;
         button.enabled = false;
         button.addEventListener("click", function () {
