@@ -25,7 +25,7 @@ if (!alreadyInjected) {
 
     window.spammerSpeed = 1;
 
-    let ThugwarePanel = new Panel("THUGWARE", true);
+    let ThugwarePanel = new Panel("NIGGERWARE", true);
     ThugwarePanel.addButton("Hand Spammer", HandSpammer.bind(mainSDKInstance));
     ThugwarePanel.addButton("Name Spammer", NameSpammer.bind(mainSDKInstance));
     ThugwarePanel.addButton("Reaction Spammer", ReactionSpammer.bind(mainSDKInstance));
