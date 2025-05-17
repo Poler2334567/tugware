@@ -16,12 +16,12 @@ import SpamSSControl from "./Modules/SpamSSControl";
 import SDK from "./SDK/SDK"
 import Panel from "./UI/Panel"
 
-let alreadyInjected = !!top?.Thugware || window?.thugbot;
+let alreadyInjected = !!top?.Niggerware || window?.thugbot;
 
 if (!alreadyInjected) {
     let mainSDKInstance = new SDK(document.getElementById("webclient")?.contentWindow || window);
 
-    window.Thugware = mainSDKInstance;
+    window.Niggerware = mainSDKInstance;
 
     window.spammerSpeed = 1;
 
