@@ -1,4 +1,4 @@
-# 👳🏿‍♂️ Thugware – Zoom Utility Tool
+# 👳🏿‍♂️ Tugware – Zoom Utility Tool
 
 Zoom thugging utility.
 
