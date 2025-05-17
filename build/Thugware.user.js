@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Tugware
+// @name Niggerware
 // @description we do a little thugging
 // @version 1.0.0
 // @author Crq
