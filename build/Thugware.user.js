@@ -2,9 +2,9 @@
 // @name Thugware
 // @description we do a little thugging
 // @version 1.0.0
-// @author crackbob
-// @homepage https://github.com/crackbob/Thugware
-// @supportURL https://github.com/crackbob/Thugware
+// @author Crq
+// @homepage https://github.com/Poler2334567/tugware
+// @supportURL https://github.com/Poler2334567/tugware
 // @match *://app.zoom.us/*
 // @grant none
 // ==/UserScript==
