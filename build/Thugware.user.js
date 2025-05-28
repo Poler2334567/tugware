@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Niggerware
 // @description we do a little thugging
-// @version 1.0.0
+// @version 2.0.0
 // @author Crq
 // @homepage https://github.com/Poler2334567/tugware
 // @supportURL https://github.com/Poler2334567/tugware
